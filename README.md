@@ -10,7 +10,7 @@
     </div>
 ---
 
-## 🚀 About Me
+##                                          🚀 About Me
 * 💼 I work as an **IT Support Specialist**, focusing on technical solutions and problem-solving.
 * 🌱 I'm currently focused on learning **Docker** and **local server configuration** to deploy and run web projects directly from GitHub using databases. 
 * 💻 I'm actively improving my skills in **HTML, CSS, Java**, and general backend development using MySQL and PHPMyAdmin.
