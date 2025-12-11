@@ -10,7 +10,7 @@
     </div>
 ---
 
-##                                          🚀 About Me
+## 🚀 About Me
 * 💼 I work as an **IT Support Specialist**, focusing on technical solutions and problem-solving.
 * 🌱 I'm currently focused on learning **Docker** and **local server configuration** to deploy and run web projects directly from GitHub using databases. 
 * 💻 I'm actively improving my skills in **HTML, CSS, Java**, and general backend development using MySQL and PHPMyAdmin.
@@ -40,3 +40,23 @@ These are the main technologies and tools I work with:
     <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square" />
     <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square" />
 </p>
+
+---
+
+## 🔥 GitHub Stats
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=BeyoundBinaryMinds&show_icons=true&theme=vue&hide_border=true" alt="Kerstyn's GitHub Stats" style="width: 45%;" />
+    &nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeyoundBinaryMinds&layout=compact&theme=vue&hide_border=true" alt="Kerstyn's Top Languages" style="width: 45%;" />
+</div>
+
+---
+
+## 🔗 Connect with Me
+
+| Platform | Link |
+| :--- | :--- |
+| **LinkedIn** | [linkedin.com/in/kerstynmyers/](https://www.linkedin.com/in/kerstynmyers/) |
+| **Portfolio** | [your-project-website-url](https://your-project-website-url) |
+| **Email** | [kmyers7@umbc.edu](mailto:kmyers7@umbc.edu) |
