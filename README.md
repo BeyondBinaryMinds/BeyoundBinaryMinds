@@ -17,3 +17,17 @@
 * 💡 I love to explore the intersection of **Technology and Art**, finding creative solutions to technical problems.
 * 👯 I'm looking to collaborate on projects that clearly define roles and responsibilities to practice team assignment workflow.
 * ⚡ Fun fact: I am an art lover and enjoy painting and creating digital art!
+
+---
+
+## 🛠️ My Tech Stack
+
+These are the main technologies and tools I work with:
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | HTML, CSS, Java, Python, Processing Code |
+| **Database/Tools** | MySQL, PHPMyAdmin |
+| **Other Tools** | Docker, VS Code, Git/GitHub, Local Servers |
+
+<br>
